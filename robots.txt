@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: http://www.cljv.edu.mx/sitemap.xml
